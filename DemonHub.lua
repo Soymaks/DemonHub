@@ -1,4 +1,4 @@
--- DEMONHUB MENU v4 - VERSIÓN DEFINITIVA 2025 (TODO LO QUE PEDISTE)
+-- DEMONHUB MENU v4 - VERSIÓN
 -- LocalScript → StarterPlayerScripts
 -- Colores: Rojo y Negro predominantes
 -- Nombre cambiado a DemonHUB
